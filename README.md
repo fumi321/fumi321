@@ -1,7 +1,7 @@
 # About me!
 
 * I'm @fumi321.
-* I'm currently learning Spanish and French, btw.
-* I love C and Rust.
+* I'm learning Rust and Typescript.
+* I'm interested in algorithm and mathematics.
 
-**C is a greatest language even now!**
+I wanna acquire functional programming language someday.
